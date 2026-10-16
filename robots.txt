@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://disagro2010-bot.github.io/no-hables/sitemap.xml
